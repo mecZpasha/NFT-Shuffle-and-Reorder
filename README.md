@@ -2,11 +2,11 @@
 
 <img src="https://i.ibb.co/7vSgTXz/Ads-z.png">
 
-When you make your own NFT Collection through art generator such as hashlips .. 
-You wanted to select good combinations from art generator instead of take all outputs..
+When you make your own NFT Collection through custom art generator such as hashlips .. 
+Then you wanted to select good combinations from art generator instead of take all outputs..
 Then you will have some problem like your picture numbers will be not in the order (1, 2, 3, 4 ..)
 instead they will be like (4, 12, 15, 21 ..) because you selected manually.
-Their json and their metadatas also will be order like (4, 12, 15, 21 .. )
+Their json and their metadatas also will be order like (4, 12, 15, 21 .. ) ( you should pick and save 4.json for 4.png )
 You can shuffle your collection and re order them with this script and also you can change your entire collection name and description!
 
 Steps:
