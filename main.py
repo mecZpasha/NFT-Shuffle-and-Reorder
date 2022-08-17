@@ -4,7 +4,6 @@ from pathlib import Path
 import shutil
 import random
 
-
 os.getcwd()
 collection = "collection/"
 directory = os.fsencode(collection)
@@ -66,9 +65,8 @@ for file in os.listdir(directory):
     num = fn.split(".")[0]
     with open(new_jsons + fn) as f:
         data = json.load(f)
-        data["name"] = "Collection Name #{}".format(num)
-        data["description"] = "Collection Explanation"
-        data["image"] = "ipfs://ImageIPFSID{}.png".format(num)
+        data["name"] = "Collection Name #{}".format(num)   # CHANGE YOUR COLLECTION NAME
+        data["description"] = "Collection Explanation"     # CHANGE DESCRIPTION OF YOUR COLLECTION
         data["edition"] = num
 
         with open(new_jsons + "{}.json".format(num), "w" ) as f:
