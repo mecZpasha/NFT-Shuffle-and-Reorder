@@ -5,11 +5,11 @@ instead they will be like [4 , 12, 22 .. ]
 
 This Script help you edit your pictures and their metadatas through json files..
 
-1- Upload your pictures  to collection folder
-2- Upload jsons of their pictures to jsons folder
-3- Open main.py and edit your collection name / description 
-4- Run the script
-5- Take your new collection from new_collection and new_jsons
+  1- Upload your pictures  to collection folder
+  2- Upload jsons of their pictures to jsons folder
+  3- Open main.py and edit your collection name / description 
+  4- Run the script
+  5- Take your new collection from new_collection and new_jsons
 
 Enjoy!
 
