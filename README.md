@@ -18,8 +18,9 @@ Steps:
   5- Take your new collection from new_collection and new_jsons
 
 Warning:
+
   1 - When you run main.py with VS or notepads don't forget to open folder first then select to main.py! </br>
   2 - Do not remove "nj" and "nw" files for script works perfect </br>
   otherwise you will be get errors!
  
-Enjoy my first repo!
+Enjoy the repo!
